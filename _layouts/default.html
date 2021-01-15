@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+  <style type="text/css">
+    /*INCLUDE MAIN CSS FILE*/
+    {% capture criticalcss %}
+      {% include /css/critical.scss %}
+    {% endcapture %}
+    {{ criticalcss | scssify }}
+  </style>
+  
+  {% include /gdb_21/js.html %}
+  {% include /gdb_21/head.html %}
+
+  <body>
+    {% include /gdb_21/header.html %}
+        {{ content }}
+  </body>
+  {% include /gdb_21/footer.html %}
+</html>

@@ -1,23 +1,18 @@
-title: Your Title
+title: "EGU Great Debate"
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+  Conducting geoscientific research today is unthinkable without research software.
+  However, there are different views on the importance of research software and its role in science, but it's clear improving research softwar touches on all aspects of academia, such as  funding, credit and reward systems, job descriptions and career paths, or evaluation of papers, people, and projects.
+  This great debate puts the questions, problems, challenges, and opportunities around research software in geosciences to the center of EGU.
+  A topic that concerns every researcher who uses computers.
+baseurl: "/great-debate-2021" # the subpath of your site, e.g. /blog
+url: "nuest.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
-facebook:
-  app_id: 
+logo: "/css/img/icon-large.png"
 
-logo: "../css/2016_style/img/icon-large.png"
-
-social: 
-  name: Your Facebook Page
-  link: "https://www.facebook.com/"
-
-google_site_verification: googleXXXXXXXXXXXXXXXX.html
-
-include: ['_2016_pages', '_2017_pages']
+ 
+include: ['_pages']
 
 plugins:
   - jekyll-sitemap
@@ -25,10 +20,9 @@ plugins:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url: https://www.facebook.com
-  - title: twitter
-    url: https://twitter.com
+  - network: twitter
+    title: EGU @ Twitter
+    url: "https://twitter.com/EuroGeosciences"
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,39 @@
+- title: Carina Haupt
+  name: haupt
+  subtitle: Team lead software engineering, DLR, Germany
+  img: 
+  thumbnail: TBD.jpg
+  topic: Carina's topic
+  description: More info about Carina
+
+- title: Kim Serradell
+  name: serradell
+  subtitle: Computational Earth Sciences Group Manager, Barcelona Supercomputing Center, Spain
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  topic: Topic
+  description: More Info
+
+- title: Rolf Hut
+  name: hut
+  subtitle: MacGyver scientist, TU Delft, The Netherlands
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  topic: Topic
+  description: More Info
+
+- title: Patrick Sanan
+  name: sanan
+  subtitle: postdoc/ECR, Geophysical Fluid Dynamics group, ETH, Switzerland
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  topic: Topic
+  description: More Info
+
+- title: Susanne Buiter
+  name: buiter
+  subtitle: Prof. in tectonics and geodynamics, RWTH Aachen, Germany, former EGU programme committee chair
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  topic: Topic
+  description: More Info
