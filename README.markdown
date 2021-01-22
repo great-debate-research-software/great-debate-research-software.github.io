@@ -1,16 +1,18 @@
 # EGU GDB Research Software
 
-## Image candidates
-
-https://www.flickr.com/photos/chap_d/16362223225/
-https://pixabay.com/illustrations/binary-code-globe-africa-1695476/
-https://pixabay.com/illustrations/binary-code-globe-africa-asia-1695475/
-
-https://www.pexels.com/search/earth/
-https://www.pexels.com/photo/planet-earth-close-up-photo-45208/
-
-
 Site based on [Event Jekyll Theme](https://event-jekyll-theme.github.io).
+
+All logos courtesy of original right holders: EGU, ...
+## Background image
+
+- https://pixabay.com/illustrations/binary-code-globe-africa-asia-1695475/ by user geralt (Pixabay license, free for commercial use, no attribution required)
+
+Alternatives:
+
+- https://www.flickr.com/photos/chap_d/16362223225/
+- https://pixabay.com/illustrations/binary-code-globe-africa-1695476/
+- https://www.pexels.com/search/earth/
+- https://www.pexels.com/photo/planet-earth-close-up-photo-45208/
 
 ## Installation
 
@@ -19,7 +21,7 @@ Site based on [Event Jekyll Theme](https://event-jekyll-theme.github.io).
 3. Then, install Jekyll Sitemap and Jekyll SEO gems by using the command `gem install jekyll-sitemap` and `gem install jekyll-seo-tag`.
 4. Start your localhost server by using the command `jekyll serve`. Make sure that you are at the root directory of your folder before using this command.
 5. Your site should be accessible at `localhost:4000`.
-6. For additional information about Jekyll, refer to the [official website](http://jekyllrb.com/). 
+6. For additional information about Jekyll, refer to the [official website](http://jekyllrb.com/).
 
 ## Files Structure
 

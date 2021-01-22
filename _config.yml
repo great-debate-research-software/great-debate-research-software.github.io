@@ -1,17 +1,14 @@
-title: "EGU Great Debate"
+title: "vEGU21 Great Debate"
 description: > # this means to ignore newlines until "baseurl:"
   Conducting geoscientific research today is unthinkable without research software.
   However, there are different views on the importance of research software and its role in science, but it's clear improving research softwar touches on all aspects of academia, such as  funding, credit and reward systems, job descriptions and career paths, or evaluation of papers, people, and projects.
   This great debate puts the questions, problems, challenges, and opportunities around research software in geosciences to the center of EGU.
   A topic that concerns every researcher who uses computers.
-baseurl: "/great-debate-2021" # the subpath of your site, e.g. /blog
-url: "nuest.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://great-debate-research-software.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
-logo: "/css/img/icon-large.png"
-
- 
 include: ['_pages']
 
 plugins:
@@ -20,9 +17,12 @@ plugins:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - network: twitter
-    title: EGU @ Twitter
+  - name: EGU
+    title: twitter
     url: "https://twitter.com/EuroGeosciences"
+  - name: ESSI
+    title: twitter
+    url: "https://twitter.com/EGU_ESSI"
 
 # Build settings
 markdown: kramdown

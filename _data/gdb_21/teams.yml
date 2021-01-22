@@ -1,26 +1,36 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Daniel Nüst
+  name: dn
+  subtitle: Researcher, Institute for Geoinformatics, University of Münster, Germany
+  img: Nuest_Daniel_square.jpg
+  thumbnail: Nuest_Daniel_square.jpg
+  description: |
+    Daniel is researcher at Spatio-temporal Modelling Lab at the Institute for Geoinformatics (<a href="http://ifgi.uni-muenster.de/">ifgi</a>) at the University of Münster.
+    He pursues a PhD in the context of the DFG project Opening Reproducible Research (<a href="https://o2r.info/">o2r</a>) where he develops tools for creation and execution of research compendia in geography and geosciences.
+    Before he was consultant and software developer at 52°North Initiative for Geospatial Software Solutions GmbH.
+    His professional interest is improving the scholarly publication process with new information technology — of course with Open Source software! He enjoys playing Ultimate Frisbee — the best sport ever invented by man.
+    Daniel is vice chair of the German Association for Research Software Engineering (<a href="https://de-rse.org/">de-RSE</a>).
+  
+- title: Niels Drost
+  name: nd
+  subtitle: Netherlands eScience Center, The Netherlands
+  img: niels-drost.jpg
+  thumbnail: niels-drost.jpg
+  description: |
+    Niels Drost studied Computer Science at the VU University Amsterdam, specializing on Computer Systems, and resulting in a Master degree in 2004. During his PhD research, he developed techniques and software aimed at making it trivial to use any available computer resource (including desktop machines, clusters, clouds, supercomputers, etc.) to run parallel applications on. His research resulted in the Zorilla P2P middleware system. Niels defended his PhD "Real-World Distributed Supercomputing" in 2010. He was also one of the core developers of the Ibis project. In 2010, he became a Postdoc at the VU University, continuing his work on high-performance distributed computing. From 2011 till 2013, Niels was a part-time guest researcher at the Leiden Observatory, in the Computational Astrophysics group of Prof. Simon Portegies Zwart. There, he has applied distributed computing techniques to the AMUSE computational astrophysics simulation framework. Niels joined the Netherlands eScience Center in 2012 working on several projects in the field of Geosciences, as well as general eScience infrastructure. He is currently focusing on orchestration, workflows, and container based technology.
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: David Topping
+  name: dt
+  subtitle: Senior lecturer at the University of Manchester, United Kingdom
+  img: David-Topping.jpg
+  thumbnail: David-Topping.jpg
+  description: |
+    TBD
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Lesley Wyborn
+  name: lw
+  subtitle: Adjunct Fellow, Australian National University, Australia
+  img: Lesley-Wyborn.jpg
+  thumbnail: Lesley-Wyborn.jpg
+  description: |
+    TBD
+    
