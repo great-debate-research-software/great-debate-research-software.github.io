@@ -1,14 +1,8 @@
 - inverted: 
-  img: icon-about.jpeg
+  img: microphone.png
   name: Moderator
   info: Daniel S. Katz
-  link: /moderator
-
-#- inverted: timeline-inverted
-#  img: icon-agenda.jpeg
-#  name: Agenda
-#  info: Check out the agenda
-#  link: /agenda
+  link: /team#
 
 - inverted: 
   img: icon-team.jpeg
@@ -16,20 +10,14 @@
   info: The conveners team behind the first Great Debate on Research Software
   link: /team
 
-#- inverted: timeline-inverted
-#  img: icon-venue.jpeg
-#  name: Venue
-#  info: Learn more about our location
-#  link: /venue
-
 - inverted: 
   img: icon-faq.jpeg
   name: Participate
   info: Have a question for the debaters? Submit it now!
   link: /questions
 
-#- inverted: timeline-inverted
-#  img: booklet-icon.png
-#  name: Event Booklet
-#  info: View or Download our event booklet
-#  link: /booklet
+- inverted: timeline-inverted
+  img: booklet-icon.png
+  name: Material
+  info: Reading material and resources to learn more abour research software - will be updated after the debate!
+  link: /material
