@@ -44,6 +44,12 @@ body {
     color: #{{ site.data.template.color.muted }};
 }
 
+.text-muted a {
+    color: #{{ site.data.template.color.muted }};
+    font-style: italic;
+    text-decoration: underline;
+}
+
 .text-primary {
     color: #{{ site.data.template.color.primary }};
 }

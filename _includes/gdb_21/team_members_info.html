@@ -13,6 +13,7 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>{{ team.title }}</h2>
+                            <h3><a style="text-decoration: none;" href="https://orcid.org/{{ team.orcid }}" title="{{ team.title }}'s ORCID"><img height="21" style="display: inline; margin: 0 0 5px 0;" src="{{ '/css/img/ORCIDiD_iconvector.svg' | prepend: site.baseurl }}" />&nbsp;https://orcid.org/{{ team.orcid }}</a></h3>
                             <hr class="star-primary">
                             <img src="{{ '/css/img/team/' | prepend: site.baseurl }}{{ team.img }}" class="img-responsive" style="height: 200px; margin: 0 20px 20px 0; float: left;" alt="Image of {{ team.name }}">
                             <p>{{ team.description }}</p>

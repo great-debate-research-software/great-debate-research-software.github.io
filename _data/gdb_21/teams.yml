@@ -1,8 +1,23 @@
+
+- title: Daniel S. Katz (moderator)
+  name: dsk
+  subtitle: Chief Scientist at the <a href="http://www.ncsa.illinois.edu/" title="National Center for Supercomputing Applications">NCSA</a>, University of Illinois Urbana-Champaign, USA
+  img: dsk.jpg
+  thumbnail: dsk.jpg
+  orcid: 0000-0001-5934-7525
+  description: |
+    Daniel S. Katz is Chief Scientist at the National Center for Supercomputing Applications (NCSA), Research Associate Professor in Computer Science (CS), Research Associate Professor in Electrical and Computer Engineering (ECE), Research Associate Professor in the School of Information Sciences (iSchool), and Faculty Affiliate in Computational Science and Engineering (CSE) at the University of Illinois Urbana-Champaign. He is also a Better Scientific Software (BSSw) Fellow and Guest Faculty at Argonne National Laboratory. He was previously a Senior Fellow in the Computation Institute (CI) at the University of Chicago and Argonne National Laboratory (2009-2016), a Program Director in the Division of Advanced Cyberinfrastructure at the National Science Foundation (2012-2016), Director for Cyberinfrastructure Development at the Center for Computation & Technology (CCT), Louisiana State University (LSU) (2006-2009), and Adjunct Associate Professor in the LSU Department of Electrical and Computer Engineering (2006-2013), Open Grid Forum Area Co-director for Applications (2010-2012), and TeraGrid GIG Director of Science (2008-2011). From 1996 to 2006, he was at JPL in a variety of roles, including: Principal Member of the Information Systems and Computer Science Staff, Supervisor of the Parallel Applications Technologies group, Area Program Manager of High End Computing in the Space Mission Information Technology Office, Applications Project Element Manager for the Remote Exploration and Experimentation (REE) Project, and Team Leader for MOD Tool (a tool for the integrated design of microwave and millimeter-wave instruments). From 1993 to 1996, he was employed by Cray Research (and later by Silicon Graphics) as a Computational Scientist on-site at JPL and Caltech, specializing in parallel implementation of computational electromagnetic algorithms.
+    
+    Dan's interest is in the development and use of advanced cyberinfrastructure to solve challenging problems at multiple scales. His technical research interests are in applications, algorithms, fault tolerance, and programming in parallel and distributed computing, including HPC, Grid, Cloud, etc. He is also interested in policy issues, including citation and credit mechanisms and practices associated with software and data, organization and community practices for collaboration, and career paths for computing researchers. He received his B.S., M.S., and Ph.D degrees in Electrical Engineering from Northwestern University, Evanston, Illinois, in 1988, 1990, and 1994, respectively. His work is documented in numerous book chapters, journal and conference publications, and NASA Tech Briefs. He is a senior member of the IEEE and ACM, and a founding editor and current Associate Editor-in-Chief of the Journal of Open Source Software.
+    <br/>
+    <a href="http://danielskatz.org/">http://danielskatz.org/</a>
+
 - title: Daniel Nüst
   name: dn
   subtitle: Researcher, Institute for Geoinformatics, University of Münster, Germany
   img: Nuest_Daniel_square.jpg
   thumbnail: Nuest_Daniel_square.jpg
+  orcid: 0000-0002-0024-5046
   description: |
     Daniel is researcher at Spatio-temporal Modelling Lab at the Institute for Geoinformatics (<a href="http://ifgi.uni-muenster.de/">ifgi</a>) at the University of Münster.
     He pursues a PhD in the context of the DFG project Opening Reproducible Research (<a href="https://o2r.info/">o2r</a>) where he develops tools for creation and execution of research compendia in geography and geosciences.
@@ -15,29 +30,31 @@
   subtitle: Netherlands eScience Center, The Netherlands
   img: niels-drost.jpg
   thumbnail: niels-drost.jpg
+  orcid: 0000-0001-9795-7981
   description: |
     Niels Drost studied Computer Science at the VU University Amsterdam, specializing on Computer Systems, and resulting in a Master degree in 2004. During his PhD research, he developed techniques and software aimed at making it trivial to use any available computer resource (including desktop machines, clusters, clouds, supercomputers, etc.) to run parallel applications on. His research resulted in the Zorilla P2P middleware system. Niels defended his PhD "Real-World Distributed Supercomputing" in 2010. He was also one of the core developers of the Ibis project. In 2010, he became a Postdoc at the VU University, continuing his work on high-performance distributed computing. From 2011 till 2013, Niels was a part-time guest researcher at the Leiden Observatory, in the Computational Astrophysics group of Prof. Simon Portegies Zwart. There, he has applied distributed computing techniques to the AMUSE computational astrophysics simulation framework. Niels joined the Netherlands eScience Center in 2012 working on several projects in the field of Geosciences, as well as general eScience infrastructure. He is currently focusing on orchestration, workflows, and container based technology.
 
 - title: David Topping
   name: dt
-  subtitle: Senior lecturer at the University of Manchester, United Kingdom
+  subtitle: Reader, School of Earth and Environmental Science, University of Manchester, United Kingdom
   img: David-Topping.jpg
   thumbnail: David-Topping.jpg
+  orcid: 0000-0001-8247-9649
   description: |
-    TBD
+    David Topping is a senior lecturer in the Centre for Atmospheric Science at the University of Manchester.
+    He completed his PhD in 2005 on ’Modelling the hygroscopic properties of atmospheric aerosol particles’ at the University of Manchester Institute of Science and Technology (UMIST) after finishing a degree in Physics at the same institute.
+    Following this he became a fellow of the UK National Centre for Atmospheric Science (NCAS) before taking on the role of a senior research fellow part funded by the School of Earth and Environmental Science (SEES)/Centre for Atmospheric Science (CAS) at the University of Manchester.
 
 - title: Lesley Wyborn
   name: lw
   subtitle: Adjunct Fellow, Australian National University, Australia
   img: Lesley-Wyborn.jpg
   thumbnail: Lesley-Wyborn.jpg
+  orcid: 0000-0001-5976-4943
   description: |
-    TBD
-
-- title: Daniel S. Katz (moderator)
-  name: dsk
-  subtitle: Chief Scientist at the National Center for Supercomputing Applications, University of Illinois Urbana-Champaign, USA
-  img: dsk.jpg
-  thumbnail: dsk.jpg
-  description: |
-    <a href="http://danielskatz.org/">http://danielskatz.org/</a>
+    Lesley Wyborn is an Adjunct Fellow at the National Computational Infrastructure and the Research School of Earth Sciences at the Australian National University.
+    She also works part time for the Australian Research Data Commons.
+    She previously had 42 years’ experience in Geoscience Australia from 1972 to 2014 where she worked both in scientific research in geochemistry and mineral systems as well as in geoscientific data management.
+    In geoinformatics, her main interests are developing international standards that support the integration of Earth science datasets into transdisciplinary research projects and in developing seamless high-performance data sets (HPD) that can be used in high performance computing (HPC) and cloud environments.
+    She is currently Chair of the Australian Academy of Science ‘Data in Science Committee’ and is on the American Geophysical Union Data Management Board.
+    She was awarded the Australian Government Public Service Medal in 2014 for her work in geoscience and in geoinformatics, and the Geological Society of America Career Achievement Award in Geoinformatics in 2015.
