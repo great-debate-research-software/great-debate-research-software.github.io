@@ -1,39 +1,79 @@
 - title: Carina Haupt
   name: haupt
-  subtitle: Team lead software engineering, DLR, Germany
-  img: 
-  thumbnail: TBD.jpg
-  topic: Carina's topic
-  description: More info about Carina
+  subtitle:  German Aerospace Center (DLR)
+  img: CarinaHaupt.jpg
+  thumbnail: CarinaHaupt.jpg
+  topic: Team lead software engineering, DLR, Germany
+  orcid: 0000-0001-6447-1379
+  description: |
+    Carina Haupt is head of the Software Engineering group in the Intelligent and Distributed Systems department of the <a href="https://www.dlr.de/sc">Institute for Software Technology</a> of <a href="https://www.dlr.de/">DLR</a>.
+    Her aim is to support domain scientists by creating software and process based solutions for their day to day problems. 
+    Her research topics are software engineering in the scientific context, open source, and knowledge and data management. 
+    Carina is founding member of the <a href="https://de-rse.org/">de-RSE e.V.</a> association, conference chair of the <a href="https://de-rse.org/en/conf2019/">deRSE19</a> conference, and took part in the organisation of several open source and Python community conferences within Germany over the last years.  
+    Carina has a background in Computer Science and worked at the <a href="https://www.b-it-center.de/">University of Bonn</a>, <a href="https://www.scai.fraunhofer.de/">Fraunhofer SCAI</a> and in the industry, before joining DLR.
 
 - title: Kim Serradell
   name: serradell
-  subtitle: Computational Earth Sciences Group Manager, Barcelona Supercomputing Center, Spain
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  topic: Topic
-  description: More Info
+  subtitle: Barcelona Supercomputing Center, Spain
+  img: KimSerradell.jpg
+  thumbnail: KimSerradell.jpg
+  topic: Groupleader Computational Earth Sciences
+  orcid: 0000-0001-8230-4347
+  description: |
+    Msc. Kim Serradell Maronda is the manager of the Computational Earth Sciences (CES) group at the Earth Sciences department in the Barcelona Supercomputing Center (BSC).
+    The CES group is a multidisciplinary team of 31 members with different IT profiles that interacts closely with all the other groups of the Earth Sciences Dept.
+    The group has among its tasks providing help and guidance to the scientists with the technical issues related to their work and developing a framework for the most efficient use of HPC resources.
+    
+    In the last years, he has been in charge for the system administration of all the computational resources of the department, and he has been also responsible of supervising the operational runs of the MONARCH model (formerly known as NMMB/BSC-Dust) and CALIOPE Air Quality System in the HPC infrastructures of the BSC.
+    In that sense, he has also been involved in analysing the models to improve their performance and developed strong compilation and scripting skills.
+    Recently, he has been involved in the deployment of the different software stacks using automatic tools and porting HPC models to the cloud.
+    He applied with success these skills in projects like IS-ENES2 and IS-ENES3, ESiWACE, ESIWACE2, ESCAPE-2, QA4SEAS, S2S4E, SDS-WAS or BDFC.
+    
+    He’s member of different international fora, reviewer of European projects and has been an active contributor of the Strategic Research Agenda (SRA4) of the ETP4HPC platform.
+    He also teaches in different HPC schools oriented to Earth Sciences and Climate Models as PRACE Advanced Training Centres Course for Introduction to simulation environment for Earth Sciences (2012 to 2018) and The IS-ENES Summer Schools (2014, 2016).
+
+- title: Patrick Sanan
+  name: sanan
+  subtitle: ETH Zürich, Switzerland
+  img: PatrickSanan.jpg
+  thumbnail: PatrickSanan.jpg
+  topic:  Postdoc Geophysical Fluid Dynamics group
+  orcid: 0000-0003-3968-8482
+  description: |
+    Patrick Sanan is a computational mathematician and scientific software developer.
+    He is currently a postdoctoral researcher in the <a href="https://www.gfd.ethz.ch/">Geophysical Fluid Dynamics group</a> in the Institute of Geophysics at ETH Zurich.
+    He is interested in applied mathematics, computational geometry, scientific software, parallel algorithms, and physical simulation.
+    These interests fit well with cross-disciplinary work, and he has touched on many fields of application and collaboration.
+    These include electroacoustic and computer music, geometry processing and graphics, scientific and high-performance computing, and computational Earth science.
+    Current research interests include computational methods and software for large parallel geodynamic simulations modelling the long-term evolution of the Earth and other rocky planets, pipelined Krylov solvers, scientific application testing, and narrow-stencil discretization on adaptive meshes for the Stokes equations.
 
 - title: Rolf Hut
   name: hut
   subtitle: MacGyver scientist, TU Delft, The Netherlands
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  topic: Topic
-  description: More Info
-
-- title: Patrick Sanan
-  name: sanan
-  subtitle: postdoc/ECR, Geophysical Fluid Dynamics group, ETH, Switzerland
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  topic: Topic
-  description: More Info
+  img: RolfHut.jpg
+  thumbnail: RolfHut.jpg
+  topic: MacGyver scientist, TU Delft, The Netherlands
+  orcid: 0000-0002-5697-5697
+  description: |
+    dr. ir. Rolf Hut is an assistant professor at the Water Resources Engineering department of Delft University of Technology (DUT).
+    He is principal investigator (PI) on the eWaterCycle project (<a href="lab.ewatercycle.org">lab.ewatercycle.org</a>).
+    eWaterCycle is a collaboration between the Netherlands eSciencecenter and DUT.
+    The eWaterCycle team is building a 'FAIR by Design' platform that aims to make doing computational experiments easier for hydrologists.
+    Through the use of open standards and containers, eWaterCycle offers easy access to models made by other hydrologists as well as to commonly used input (forcing) data sources. 
+    
+    Next to eWaterCycle, Huts academic interests include geoscientific science communication (including through the use of games) and designing new measurement devices for hydrology, on which he did his PhD. 
 
 - title: Susanne Buiter
   name: buiter
-  subtitle: Prof. in tectonics and geodynamics, RWTH Aachen, Germany, former EGU programme committee chair
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  topic: Topic
-  description: More Info
+  subtitle: Tectonics and Geodynamics, RWTH Aachen University, Aachen, Germany
+  img: SusanneBuiter.jpg
+  thumbnail: SusanneBuiter.jpg
+  topic: Professor in Tectonics and Geodynamics and former EGU Programme Committee Chair
+  orcid: 0000-0002-2493-2377
+  description: |
+    Since Spring 2020, i am professor in Tectonics and Geodynamics at RWTH Aachen University in Germany.
+    Here I teach and research in deformation processes from outcrop to plate scale.
+    My tools are numerical finite-element and analogue (sandbox) techniques.
+    The numerical experiments use SULEC (<a href="http://www.continentalmargins.com/sulec.html">http://www.continentalmargins.com/sulec.html</a>) developed by Buiter and Ellis.
+    Before coming to Aachen, i worked for 16 years for the Geological Survey of Norway and was postdoc in Halifax (Canada) and Bern (Switzerland) before that.
+    I was Programme Committee Chair for EGU for the 2018, 2019 and 2020 General Assemblies and president for the Tectonics and Structural Geology Division from 2013 to 2017.

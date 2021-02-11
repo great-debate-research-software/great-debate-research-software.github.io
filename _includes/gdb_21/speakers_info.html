@@ -13,9 +13,10 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
+                            <h3><a style="text-decoration: none;" href="https://orcid.org/{{ post.orcid }}" title="{{ post.title }}'s ORCID"><img height="21" style="display: inline; margin: 0 0 5px 0;" src="{{ '/css/img/ORCIDiD_iconvector.svg' | prepend: site.baseurl }}" />&nbsp;https://orcid.org/{{ post.orcid }}</a></h3>
                             <hr class="star-primary">
                             <img src="{{ '/css/img/speaker/' | prepend: site.baseurl }}{{ post.img }}" class="img-responsive img-centered" alt="Image of {{ post.title }}">
-                            <h3>Topic: {{ post.topic }}</h3>
+                            <h3>{{ post.topic }}</h3>
                             <p>{{ post.description }}</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
