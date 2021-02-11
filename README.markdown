@@ -30,4 +30,3 @@ Alternatives:
 - `__pages` is the folder for subpages.
 - `_2016_data` and `_2017_data` are the folders that store each sections in home page. Those sections are can be removed by removing or commenting out the `include` code in  `_layout/home.html`.
 - `_data/gdb_21/` contains `data` files for agenda, faqs, home about section data, speakers, and team members information. The data file is in the format of `.yml`. Folder names start with letters because otherwise there are liquid syntax errors.
-- In order to view PDF correctly, sharing setting in Google Drive must set to "Public on the web".
