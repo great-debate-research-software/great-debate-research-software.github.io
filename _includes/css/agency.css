@@ -364,7 +364,7 @@ header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-size: 22px;
     line-height: 22px;
-    text-shadow: 0 0 3px #000, 0 0 5px #000;
+    text-shadow: 1px 1px 1px #000, -1px -1px 1px #000, 0 0 3px #000, 0 0 3px #000, 0 0 5px #000;
 }
 
 header .intro-text .intro-heading {
@@ -374,7 +374,7 @@ header .intro-text .intro-heading {
     font-size: 40px;
     font-weight: 700;
     line-height: 40px;
-    text-shadow: 0 0 3px #000, 0 0 5px #000;
+    text-shadow: 1px 1px 1px #000, -1px -1px 1px #000, 0 0 3px #000, 0 0 5px #000, 0 0 5px #000;
 }
 
 @media(min-width:768px) {    
